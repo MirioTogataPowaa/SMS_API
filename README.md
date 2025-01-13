@@ -28,8 +28,6 @@ Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.co
 * `npm start`
 
 ### In Live Code
-
-[* Run(https://greennodejs-sendapi.glitch.me/) on port 3000
-* Visit your url! in glitch.com](https://glitch.com/edit/#!/greennodejs-sendapi)
+* Visit your url! in glitch.com](https://glitch.com/edit/#!/greennodejs-sendapi)]
 ### Live Site
 https://greennodejs-sendapi.glitch.me/
