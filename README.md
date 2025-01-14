@@ -34,7 +34,8 @@ full guide is in API_DOC.md.docx to locally run
 https://greennodejs-sendapi.glitch.me/
 
 ## Developer
-[GreenCatapang](https://github.com/GreenTeoxon)
+[GreenCatapang(BSCS Student)](https://github.com/GreenTeoxon)
+
 ## Collaborators
-@johnkervin-99 
+[johnkervin-99 (BSIT Student)](https://github.com/johnkervin-99 )
 @Jevynleo
