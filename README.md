@@ -30,6 +30,7 @@ full guide is in API_DOC.md.docx to locally run
 
 ### In Live Code
 [* Visit your url! in glitch.com](https://glitch.com/edit/#!/greennodejs-sendapi)]](https://greennodejs-sendapi.glitch.me)
+
 ### Live Site
 https://greennodejs-sendapi.glitch.me/
 
@@ -38,4 +39,4 @@ https://greennodejs-sendapi.glitch.me/
 
 ## Collaborators
 [johnkervin-99 (BSIT Student)](https://github.com/johnkervin-99 )
-@Jevynleo
+[Jervyn12 (BSIT Student)](https://github.com/Jervyn12 )
