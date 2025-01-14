@@ -21,6 +21,7 @@ For dynamic apps requiring a backend, make sure you configure hosting for the ba
 ## Local Installation
 
 Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.com) credentials.
+full guide is in API_DOC.md.docx to locally run
 
 ## Running the application
 
@@ -31,3 +32,9 @@ Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.co
 [* Visit your url! in glitch.com](https://glitch.com/edit/#!/greennodejs-sendapi)]](https://greennodejs-sendapi.glitch.me)
 ### Live Site
 https://greennodejs-sendapi.glitch.me/
+
+## Developer
+[GreenCatapang](https://github.com/GreenTeoxon)
+## Collaborators
+@johnkervin-99 
+@Jevynleo
